@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{391F0154-D7FF-4407-BD05-7E88F9FABBF2}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		coop.lua = coop.lua
+		debug.lua = debug.lua
+		dialog.lua = dialog.lua
+		driver.lua = driver.lua
+		iup.dll = iup.dll
+		iuplua.dll = iuplua.dll
+		pipe.lua = pipe.lua
+		README.md = README.md
+		socket.lua = socket.lua
+		todo.txt = todo.txt
+		util.lua = util.lua
+		version.lua = version.lua
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C576C244-AB4D-497D-87C9-7B04A8D289F8}
+	EndGlobalSection
+EndGlobal
